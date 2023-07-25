@@ -1,4 +1,4 @@
-# BEPs: BNB Evolution Proposals
+# BEPs: opBNB Evolution Proposals
 
 opBNB is a layer-2 scaling solution for the BNB Smart Chain, constructed on the foundation of decentralized governance and driven by the aspirations of its community. This Provisional Governance Framework provides the structure for sustainable, adaptable, and democratic governance that's built to endure and evolve.
 
